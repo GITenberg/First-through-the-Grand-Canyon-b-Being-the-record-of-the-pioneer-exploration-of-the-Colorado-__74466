@@ -1,0 +1,42 @@
+_repo: First-through-the-Grand-Canyon-b-Being-the-record-of-the-pioneer-exploration-of-the-Colorado-__74466
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Powell, John Wesley
+    aliases:
+    - Powell, J. W. (John Wesley)
+    - Powell, Wes
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '7040'
+    url: http://www.gutenberg.org/2009/agents/7040
+    wikipedia: https://en.wikipedia.org/wiki/John_Wesley_Powell
+  editor:
+    agent_name: Kephart, Horace
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '35425'
+    url: http://www.gutenberg.org/2009/agents/35425
+    wikipedia: https://en.wikipedia.org/wiki/Horace_Kephart
+description: ''
+gutenberg_issued: '2024-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74466'
+language: en
+pgterms:marc904: https://archive.org/details/outingadventurel0000unse
+pgterms:marc905: 20230808104130powell
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: deaurider, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bOuting Publishing Company, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'First through the Grand Canyon : $b Being the record of the pioneer exploration
+  of the Colorado River in 1869-70'
+url: http://www.gutenberg.org/ebooks/74466
