@@ -1,5 +1,8 @@
 _repo: First-through-the-Grand-Canyon-b-Being-the-record-of-the-pioneer-exploration-of-the-Colorado-__74466
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74466-h/images/cover.jpg
 creator:
   author:
     agent_name: Powell, John Wesley
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35425
     wikipedia: https://en.wikipedia.org/wiki/Horace_Kephart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74466#First-through-the-Grand-Canyon-b-Being-the-record-of-the-pioneer-exploration-of-the-Colorado-_
 gutenberg_issued: '2024-09-23'
 gutenberg_type: Text
 identifiers:
